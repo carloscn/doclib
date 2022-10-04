@@ -23,7 +23,6 @@
 │   │   ├── Linux Device Drivers.pdf
 │   │   ├── Linux内核完全注释.pdf
 │   │   ├── Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
-│   │   ├── Professional Linux Kernel Architecture.pdf
 │   │   └── 嵌入式C语言自我修养——从芯片、编译器到操作系统.big.pdf
 │   └── special
 │       ├── (mandatory)C语言终极面试宝典.pdf
@@ -113,6 +112,7 @@
 │       │   ├── 基于多态Canary的栈保护技术研究_王之隆.caj
 │       │   └── 地址空间随机化技术研究_戈戟.pdf
 │       └── trustzone
+│           ├── Demystifying ARM TrustZone TEE Client API using OP-TEE.pdf
 │           ├── 基于TrustZone技术...nux安全模块隔离方法研究_岳晨旭.caj
 │           ├── 基于TrustZone的可信操作系统设计与实现_张文.caj
 │           ├── 基于Trustzone的安...安全启动与数据加密方法研究_高文.caj
