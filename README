@@ -65,6 +65,7 @@
 │   │   ├── cortex-m
 │   │   │   └── system-on-chip-design-cortex-m.pdf
 │   │   ├── standard
+│   │   │   ├── GPD_TEE_SE_API_v1.1.1_PublicRelease_CC.pdf
 │   │   │   ├── Procedure Call Standard for the Arm® 64-bit  Architecture (AArch64).pdf
 │   │   │   └── SMC CALLING CONVENTION  System Software on ARM Platforms.pdf
 │   │   └── ti
@@ -137,8 +138,10 @@
     │   ├── dokumen.tips_lcu14-500-arm-trusted-firmware.pdf
     │   ├── dokumen.tips_trusted-firmware-m-amazon-web-firmware-storage-server-runtime-firmware-local-storage.pdf
     │   ├── dokumen.tips_xpds16-keeping-coherency-on-arm-julien-grall-arm.pdf
-    │   └── tkos_secure_boot_lecture_20190605.pdf
+    │   ├── optee_cryptograph_elc2021.pdf
+    │   ├── tkos_secure_boot_lecture_20190605.pdf
+    │   └── ~$Cache_and_data_coherency_V02.pptx
     └── kernel
         └── decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-33 directories, 108 files
+33 directories, 111 files
