@@ -13,6 +13,7 @@
 │   ├── compile
 │   │   └── 程序员的自我修养--链接、装载与库.big.pdf
 │   ├── embedded
+│   │   ├── Embedded and Real-Time Operating Systems.pdf
 │   │   ├── 深入理解BOOTLOADER.big.pdf
 │   │   └── 《计算机组成原理》唐朔飞.pdf
 │   ├── linux
@@ -140,8 +141,7 @@
     │   ├── dokumen.tips_trusted-firmware-m-amazon-web-firmware-storage-server-runtime-firmware-local-storage.pdf
     │   ├── dokumen.tips_xpds16-keeping-coherency-on-arm-julien-grall-arm.pdf
     │   ├── optee_cryptograph_elc2021.pdf
-    │   ├── tkos_secure_boot_lecture_20190605.pdf
-    │   └── ~$Cache_and_data_coherency_V02.pptx
+    │   └── tkos_secure_boot_lecture_20190605.pdf
     └── kernel
         └── decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
