@@ -13,7 +13,6 @@
 │   ├── compile
 │   │   └── 程序员的自我修养--链接、装载与库.big.pdf
 │   ├── embedded
-│   │   ├── Embedded and Real-Time Operating Systems.pdf
 │   │   ├── 深入理解BOOTLOADER.big.pdf
 │   │   └── 《计算机组成原理》唐朔飞.pdf
 │   ├── linux
@@ -82,6 +81,8 @@
 │       │   └── i.MX 8QuadMax Applications Processor Reference Manual.big.pdf
 │       └── st
 │           └── stm32
+│               ├── STM32F4 FreeRTOS开发手册_V1.1.pdf
+│               ├── STM32F4 UCOS开发手册_V3.0.pdf
 │               └── cd00225773-stm32f205xx-stm32f207xx-stm32f215xx-and-stm32f217xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
 ├── onekey.bat
 ├── onekey.sh
@@ -145,4 +146,4 @@
     └── kernel
         └── decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-33 directories, 112 files
+33 directories, 113 files
