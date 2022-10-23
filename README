@@ -34,7 +34,7 @@
 │       ├── [ 12M]  (mandatory)嵌入式软件开发笔试面试指南.pdf
 │       ├── [ 16M]  (optional)Http核心总结.pdf
 │       └── [109M]  王道程序员面试宝典_s13441339-王道论坛 组编.big.pdf
-├── [ 160]  man
+├── [ 192]  man
 │   ├── [ 320]  arm
 │   │   ├── [ 128]  arm9
 │   │   │   └── [1.5M]  DDI0201D_arm946es_r1p1_trm.pdf
@@ -77,17 +77,19 @@
 │   │       ├── [4.2M]  AM335x Sitara Processors datasheet.pdf
 │   │       ├── [ 23M]  AM335x and AMIC110 Sitara Processors TRM.big.pdf
 │   │       └── [658K]  Secure Boot on embedded Sitara processors (Rev. A).pdf
-│   └── [ 192]  embedded
-│       ├── [ 128]  boardcom
-│       │   ├── [1.5M]  2711_1p0- 树莓派4B 芯片手册.pdf
-│       │   └── [1.3M]  bcm2711-peripherals-树莓派4b芯片手册-v1.3.pdf
-│       ├── [  96]  nxp
-│       │   └── [ 62M]  i.MX 8QuadMax Applications Processor Reference Manual.big.pdf
-│       └── [ 128]  st
-│           └── [ 160]  stm32
-│               ├── [ 11M]  STM32F4 FreeRTOS开发手册_V1.1.pdf
-│               ├── [5.9M]  STM32F4 UCOS开发手册_V3.0.pdf
-│               └── [ 18M]  cd00225773-stm32f205xx-stm32f207xx-stm32f215xx-and-stm32f217xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+│   ├── [ 192]  embedded
+│   │   ├── [ 128]  boardcom
+│   │   │   ├── [1.5M]  2711_1p0- 树莓派4B 芯片手册.pdf
+│   │   │   └── [1.3M]  bcm2711-peripherals-树莓派4b芯片手册-v1.3.pdf
+│   │   ├── [  96]  nxp
+│   │   │   └── [ 62M]  i.MX 8QuadMax Applications Processor Reference Manual.big.pdf
+│   │   └── [ 128]  st
+│   │       └── [ 160]  stm32
+│   │           ├── [ 11M]  STM32F4 FreeRTOS开发手册_V1.1.pdf
+│   │           ├── [5.9M]  STM32F4 UCOS开发手册_V3.0.pdf
+│   │           └── [ 18M]  cd00225773-stm32f205xx-stm32f207xx-stm32f215xx-and-stm32f217xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
+│   └── [  96]  security
+│       └── [189K]  AN12838-Strengthening public key crypto using caam secure key.pdf
 ├── [  61]  onekey.bat
 ├── [  97]  onekey.sh
 ├── [ 160]  paper
@@ -153,4 +155,4 @@
     └── [ 128]  kernel
         └── [8.7M]  decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-35 directories, 118 files
+36 directories, 119 files
