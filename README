@@ -26,8 +26,9 @@
 │   │   ├── [9.0M]  Linux内核完全注释.pdf
 │   │   ├── [5.2M]  Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
 │   │   └── [ 58M]  嵌入式C语言自我修养——从芯片、编译器到操作系统.big.pdf
-│   ├── [  96]  security
-│   │   └── [2.3M]  Introduction to Cryptography Principles and Applications, 2nd Edition (Information Security and Cryptography.pdf
+│   ├── [ 128]  security
+│   │   ├── [2.3M]  Introduction to Cryptography Principles and Applications, 2nd Edition (Information Security and Cryptography.pdf
+│   │   └── [2.5M]  OpenSSL与网络信息安全-基础、结构和指令.pdf
 │   └── [ 256]  special
 │       ├── [557K]  (mandatory)C语言终极面试宝典.pdf
 │       ├── [ 66M]  (mandatory)操作系统.big.pdf
@@ -155,4 +156,4 @@
     └── [ 128]  kernel
         └── [8.7M]  decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-36 directories, 119 files
+36 directories, 120 files
