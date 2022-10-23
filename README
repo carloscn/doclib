@@ -90,7 +90,10 @@
 │               └── [ 18M]  cd00225773-stm32f205xx-stm32f207xx-stm32f215xx-and-stm32f217xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf
 ├── [  61]  onekey.bat
 ├── [  97]  onekey.sh
-├── [ 128]  paper
+├── [ 160]  paper
+│   ├── [ 128]  security
+│   │   ├── [5.2M]  基于TrustZone技术...nux安全模块隔离方法研究_岳晨旭.caj
+│   │   └── [4.2M]  应用于ARM_TrustZ...高可信运行环境的设计与实现_仇伟民.caj
 │   └── [ 288]  software
 │       ├── [  96]  barrier
 │       │   └── [ 95K]  存储一致性模型研究.pdf
@@ -150,4 +153,4 @@
     └── [ 128]  kernel
         └── [8.7M]  decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-34 directories, 116 files
+35 directories, 118 files
