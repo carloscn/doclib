@@ -15,15 +15,15 @@
 │   ├── [ 224]  embedded
 │   │   ├── [139M]  ARM Cortex-M3与Cortex-M4权威指南.big.pdf
 │   │   ├── [ 40M]  The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors, Third Edition.big.pdf
-│   │   ├── [ 41M]  深入理解BOOTLOADER.big.pdf
 │   │   └── [9.7M]  《计算机组成原理》唐朔飞.pdf
-│   ├── [ 384]  linux
+│   ├── [ 416]  linux
 │   │   ├── [6.4M]  EMBEDDED LINUX SYSTEM DESIGN AND DEVELOPMENT.pdf
 │   │   ├── [4.9M]  Essential Linux Device Drivers.pdf
 │   │   ├── [ 27M]  LINUX内核源代码情景分析(上).big.pdf
 │   │   ├── [ 23M]  LINUX内核源代码情景分析(下).big.pdf
 │   │   ├── [7.4M]  Linux Device Drivers.pdf
 │   │   ├── [9.0M]  Linux内核完全注释.pdf
+│   │   ├── [1.9M]  O'Reilly bash CookBook.pdf
 │   │   ├── [5.2M]  Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
 │   │   └── [ 58M]  嵌入式C语言自我修养——从芯片、编译器到操作系统.big.pdf
 │   ├── [ 128]  security
