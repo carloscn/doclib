@@ -8,7 +8,8 @@
 │   │   ├── [4.7M]  Embedded Systems - ARM Programming and Optimization.pdf
 │   │   ├── [3.3M]  Relaxed virtual memory in Armv8-A (extended version).pdf
 │   │   └── [ 84M]  计算机组成与设计：硬件 软件接口.big.pdf
-│   ├── [ 128]  c
+│   ├── [ 160]  c
+│   │   ├── [8.4M]  Programming Rust 2nd Edition.pdf
 │   │   └── [850K]  高质量C编程指南.pdf
 │   ├── [ 128]  compile
 │   │   └── [ 31M]  程序员的自我修养--链接、装载与库.big.pdf
@@ -156,4 +157,4 @@
     └── [ 128]  kernel
         └── [8.7M]  decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-36 directories, 120 files
+37 directories, 121 files
