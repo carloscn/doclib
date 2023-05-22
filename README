@@ -8,8 +8,9 @@
 │   │   ├── [4.7M]  Embedded Systems - ARM Programming and Optimization.pdf
 │   │   ├── [3.3M]  Relaxed virtual memory in Armv8-A (extended version).pdf
 │   │   └── [ 84M]  计算机组成与设计：硬件 软件接口.big.pdf
-│   ├── [ 160]  c
+│   ├── [ 192]  c
 │   │   ├── [8.4M]  Programming Rust 2nd Edition.pdf
+│   │   ├── [7.0M]  Programming Rust_ Fast, Safe Systems Development.pdf
 │   │   └── [850K]  高质量C编程指南.pdf
 │   ├── [ 128]  compile
 │   │   └── [ 31M]  程序员的自我修养--链接、装载与库.big.pdf
@@ -17,12 +18,13 @@
 │   │   ├── [139M]  ARM Cortex-M3与Cortex-M4权威指南.big.pdf
 │   │   ├── [ 40M]  The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors, Third Edition.big.pdf
 │   │   └── [9.7M]  《计算机组成原理》唐朔飞.pdf
-│   ├── [ 416]  linux
+│   ├── [ 448]  linux
 │   │   ├── [6.4M]  EMBEDDED LINUX SYSTEM DESIGN AND DEVELOPMENT.pdf
 │   │   ├── [4.9M]  Essential Linux Device Drivers.pdf
 │   │   ├── [ 27M]  LINUX内核源代码情景分析(上).big.pdf
 │   │   ├── [ 23M]  LINUX内核源代码情景分析(下).big.pdf
 │   │   ├── [7.4M]  Linux Device Drivers.pdf
+│   │   ├── [2.1M]  Linux系统编程(中文版).pdf
 │   │   ├── [9.0M]  Linux内核完全注释.pdf
 │   │   ├── [1.9M]  O'Reilly bash CookBook.pdf
 │   │   ├── [5.2M]  Operating System Concepts (9th Ed) - Gagne, Silberschatz, and Galvin.pdf
@@ -157,4 +159,4 @@
     └── [ 128]  kernel
         └── [8.7M]  decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-37 directories, 121 files
+37 directories, 123 files
