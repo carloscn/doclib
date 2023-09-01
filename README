@@ -14,11 +14,13 @@
 │   │   └── [850K]  高质量C编程指南.pdf
 │   ├── [ 128]  compile
 │   │   └── [ 31M]  程序员的自我修养--链接、装载与库.big.pdf
-│   ├── [ 224]  embedded
+│   ├── [ 256]  embedded
 │   │   ├── [139M]  ARM Cortex-M3与Cortex-M4权威指南.big.pdf
+│   │   ├── [ 12M]  Embedded Software Development for Safety-Critical Systems by Chris Hobbs2020.pdf
 │   │   ├── [ 40M]  The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors, Third Edition.big.pdf
 │   │   └── [9.7M]  《计算机组成原理》唐朔飞.pdf
-│   ├── [ 448]  linux
+│   ├── [ 480]  linux
+│   │   ├── [101M]  ARM  Linux内核源码剖析.big.pdf
 │   │   ├── [6.4M]  EMBEDDED LINUX SYSTEM DESIGN AND DEVELOPMENT.pdf
 │   │   ├── [4.9M]  Essential Linux Device Drivers.pdf
 │   │   ├── [ 27M]  LINUX内核源代码情景分析(上).big.pdf
@@ -161,4 +163,4 @@
     └── [ 128]  kernel
         └── [8.7M]  decompressed-vmlinux-linux-kernel-initialization-from-page-table-configuration-perspective.pdf
 
-38 directories, 124 files
+38 directories, 126 files
